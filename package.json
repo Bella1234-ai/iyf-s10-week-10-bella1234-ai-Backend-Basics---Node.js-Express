@@ -1,0 +1,23 @@
+{
+  "name": "iyf-s10-week-10-bella1234",
+  "version": "1.0.0",
+  "description": "Week 10: Backend Basics - Node.js & Express CommunityHub API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "rest-api",
+    "communityhub"
+  ],
+  "author": "ISABELLA SIMIYU",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1"
+  }
+}
